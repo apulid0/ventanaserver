@@ -1,1 +1,14 @@
-# ventanaserver
+# Windows Server
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/uno.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/dos.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/tres.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/cuatro.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/cinco.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/seis.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/siete.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/ocho.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/nueve.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/diez.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/once.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/12.PNG)
+! [alt text] (https://github.com/apulid0/ventanaserver/blob/master/13.PNG)
